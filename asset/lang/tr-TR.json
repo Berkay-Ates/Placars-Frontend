@@ -1,0 +1,23 @@
+{
+    "first_page":{
+      "register":{
+        "user_contract":"Kullanıcı sozlesmesini okudum kabul ediyorum",
+        "email":"e-mail",
+        "user_name":"kullanıcı adı",
+        "password":"şifre",
+        "this_field_should_be_filled":"Bu alan boş geçilemez",
+        "stronger_password":"Daha güçlü şifre yazın"
+      },
+      "login":{
+  
+      },
+      "onBoard":{
+        "title":"PLACARS",
+        "small_title":"Havalı sozler zar zurt tr Version",
+        "sign_up_button":"Kayıt Ol",
+        "login_button":"Giriş Yap",
+        "button_below_text":"Lorem ipsum dolor euro hello world",
+        "certificate":"Placars Tüm Hakları Saklıdır | 2023®" 
+      } 
+   }
+  }

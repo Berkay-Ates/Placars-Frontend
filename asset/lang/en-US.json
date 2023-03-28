@@ -1,0 +1,23 @@
+{
+    "first_page":{
+      "register":{
+        "user_contract":"I have read the terms and conditions and agree",
+        "email":"e-mail",
+        "user_name":"user name",
+        "password":"password",
+        "this_field_should_be_filled":"This field could not be empty",
+        "stronger_password":"Type stronger password"
+      },
+      "login":{
+  
+      },
+      "onBoard":{
+        "title":"PLACARS",
+        "small_title":"Havalı sozler flanko filanko eng version",
+        "sign_up_button":"Sign Up",
+        "login_button":"Sign In",
+        "button_below_text":"Lorem ipsum dolor euro hello world",
+        "certificate":"Placars All Rights Are Reserved | 2023®"
+      } 
+   }
+  }
